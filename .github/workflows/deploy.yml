@@ -1,4 +1,4 @@
-name: Deploy Worker
+name: linlattmobile
 on:
   repository_dispatch:
 
